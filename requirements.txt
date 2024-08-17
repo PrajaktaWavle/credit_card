@@ -3,5 +3,5 @@ pandas
 numpy
 scikit-learn==1.5.1
 imbalanced-learn==0.10.1
-Pillow==9.5.0
+Pillow==10.3.0
 setuptools
